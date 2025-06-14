@@ -235,9 +235,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- GitHub: [@Khushi](https://github.com/kraj2003)
-- LinkedIn: [Your LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/khushi-rajpurohit-240476260/))
-- Email: your.email@example.com
+- GitHub: [Khushi](https://github.com/kraj2003)
+- LinkedIn: [Khushi](https://www.linkedin.com/in/khushi-rajpurohit-240476260/)
+- Email: khushirajpurohit2021@gmail.com
 
 ---
 
